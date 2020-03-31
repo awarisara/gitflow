@@ -4,7 +4,7 @@
 ```
 ## Objective 
 ```
-    To check the changing status of slot over a selected time period.
+    To check the changing status of slots over a selected time period.
     The changing status : Available to Occupied parking.
 ```
 ## Procedure
